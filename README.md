@@ -19,6 +19,7 @@
 ### Windhawk is for all the taskbar/start menu customizations along with many other things. You can get it from [Windhawk.net](https://windhawk.net/)
 Mods used: 
 - Windows 11 Taskbar Styler | [My config](https://github.com/lunar-os/windowsdesktop3/blob/main/WindhawkConfigs/Taskbar) (Volume in top right currently isn't dynamic)
+- Taskbar on top for Windows 11
 - Windows 11 Notification Center Styler | [My config](https://github.com/lunar-os/windowsdesktop3/blob/main/WindhawkConfigs/Notification)
 - Taskbar Volume Control
 - Taskbar Labels for Windows 11 | [My config](https://github.com/lunar-os/windowsdesktop3/blob/main/WindhawkConfigs/Labels)
