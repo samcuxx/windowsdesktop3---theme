@@ -102,6 +102,6 @@
   "controlStyles[26].styles[0]": "MinWidth=90",
   "controlStyles[26].styles[1]": "Width=90",
   "controlStyles[27].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Border#BackgroundElement",
-  "controlStyles[27].styles[0]": "Background:=<ImageBrush Stretch=\"Uniform\" ImageSource=\"C:\\Users\\mrtsh\\Downloads\\start.png\" />",
+  "controlStyles[27].styles[0]": "Background:=<ImageBrush Stretch=\"Uniform\" ImageSource=\"https://raw.githubusercontent.com/lunar-os/windowsdesktop3/refs/heads/main/WindhawkConfigs/start.png\" />",
   "controlStyles[27].styles[1]": "CornerRadius=6"
 }
