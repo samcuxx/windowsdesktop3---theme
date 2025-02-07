@@ -43,9 +43,21 @@ global:
   unminimize_delay: 50
 
   animations:
-    active: { ReverseSpiral, Fade }
-    inactive: { Spiral, Fade }
     fps: 15  # Reduced from 30 to slow down the animation
+    active:
+      - type: ReverseSpiral
+        duration: 1800
+        easing: Linear
+      - type: Fade
+        duration: 200
+        easing: EaseInOutQuad
+    inactive:
+      - type: Spiral
+        duration: 1800
+        easing: Linear
+      - type: Fade
+        duration: 200
+        easing: EaseInOutQuad
 
 # Customize config options on a per-app basis
 window_rules:
